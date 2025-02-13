@@ -1,4 +1,3 @@
-![logo](https://github.com/saurabhsoljar/saurabhsoljar/blob/main/bgc1.avif)
 <h1 align="center">Hi 👋, I'm Saurabh kumar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
